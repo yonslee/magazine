@@ -1,11 +1,11 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: 'http://3.35.209.214'
+  baseURL: ''
 })
 
 // const api = axios.create({
-//   baseURL: 'http://3.35.209.214',
+//   baseURL: '',
 // });
 
 // export const getPostList = () => {
